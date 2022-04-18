@@ -15,7 +15,7 @@ package com.ijpay.wxpay.enums;
  */
 public enum BankCode {
     /**
-     * 工商银行
+     * 工商银行/
      */
     BK_1002("1002"),
     /**
